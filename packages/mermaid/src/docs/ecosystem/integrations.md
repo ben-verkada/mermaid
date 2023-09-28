@@ -128,6 +128,7 @@ They also serve as proof of concept, for the variety of things that can be built
   - [md-it-mermaid](https://github.com/iamcco/md-it-mermaid)
   - [markdown-it-mermaid-fence-new](https://github.com/Revomatico/markdown-it-mermaid-fence-new)
   - [markdown-it-mermaid-less](https://github.com/searKing/markdown-it-mermaid-less)
+- [IntelliJ](https://plugins.jetbrains.com/plugin/20146-mermaid)
 - Atom _(Atom has been [archived.](https://github.blog/2022-06-08-sunsetting-atom/))_
   - [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced)
   - [Atom Mermaid](https://github.com/y-takey/atom-mermaid)
